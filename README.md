@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Thiago! 
 
-<!--
-**thiagosoncarmo/thiagosoncarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista e Desenvolvedor de Sistemas em formação
 
-Here are some ideas to get you started:
+##  Conhecimentos
+ C#, Engenharia de Software Ágil Aplicada, Análise de Requisitos, Desenvolvimento Web, Bancos de Dados SQL e NoSQL, UX/UI e Redes de Computadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tecnologias e Ferramentas
+- **Frameworks:** ASP.NET Core MVC, Entity Framework Core
+- **Ferramentas:** Visual Studio 2022, SQL Server Management Studio, Git & GitHub
+
+##  Como me encontrar
+- **LinkedIn:** [thiago-santos-40a186263](https://www.linkedin.com/in/thiago-santos-40a186263)
+- **Email:** thiagoreal467@gmail.com
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiagosoncarmo&show_icons=true&theme=dark)
